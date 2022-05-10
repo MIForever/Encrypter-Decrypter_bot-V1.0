@@ -16,11 +16,11 @@ _Below is an example of how you can how you can set up this bot and run_
 2. Open main.py file
 3. Replace that TOKEN with <strong>token</strong> variable's value <strong>(line 5)</strong>
    ```
-   token =  "TOKEN"
+   token = "TOKEN"
    ```
 3. Replace <strong>link</strong> variable's value with your bot's link <strong>(line 6)</strong>
    ```
-   link =  "link to your bot"
+   link = "link to your bot"
    ```
 4. Run main.py file
 
