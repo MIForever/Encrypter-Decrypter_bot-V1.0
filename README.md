@@ -18,7 +18,7 @@ _Below is an example of how you can how you can set up this bot and run_
    ```
    token =  "TOKEN"
    ```
-3. Replace <strong>link</strong> variable's value with your bot's link <strong>(line 5)</strong>
+3. Replace <strong>link</strong> variable's value with your bot's link <strong>(line 6)</strong>
    ```
    link =  "link to your bot"
    ```
