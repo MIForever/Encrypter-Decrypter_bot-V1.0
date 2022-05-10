@@ -1,2 +1,2 @@
 # Encrypter-Decrypter_bot_1.0
-The telegram bot that makes your messages secure in format cipher
+Telegram bot that secures your messages with a format cipher
