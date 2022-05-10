@@ -27,7 +27,7 @@ _Below is an example of how you can how you can set up this bot and run_
 
 
 <!-- CONTRIBUTING -->
-## • Contributing
+## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
