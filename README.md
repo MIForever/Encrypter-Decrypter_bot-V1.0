@@ -14,18 +14,15 @@ _Below is an example of how you can instruct your audience on installing and set
 
 1. Copy the TOKEN that's given you from BotFahter
 2. Open main.py file
-3. Replace that TOKEN with <strong>token</strong> variable's value
+3. Replace that TOKEN with <strong>token</strong> variable's value <strong>(line 5)</strong>
    ```
-   "TOKEN" --> "THAT TOKEN"
+   token =  "TOKEN"
    ```
-3. Replace <strong>link</strong>
+3. Replace <strong>link</strong> variable's value with your bot's link
    ```
-   link "link to your bot"
+   link =  "link to your bot"
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+4. Run main.py file
 
 
 
