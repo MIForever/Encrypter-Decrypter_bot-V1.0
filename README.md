@@ -1,16 +1,16 @@
 # Encrypter-Decrypter_bot_1.0
 ## Telegram bot that secures your messages with a format cipher
 
-### Requirements
+### • Requirements
 
 All you have to do is install pyTelegramBotAPI
   ```
   pip install pyTelegramBotAPI
   ```
 
-### Usage
+### • Usage
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+_Below is an example of how you can how you can set up this bot and run_
 
 1. Copy the TOKEN that's given you from BotFahter
 2. Open main.py file
@@ -18,7 +18,7 @@ _Below is an example of how you can instruct your audience on installing and set
    ```
    token =  "TOKEN"
    ```
-3. Replace <strong>link</strong> variable's value with your bot's link
+3. Replace <strong>link</strong> variable's value with your bot's link <strong>(line 5)</strong>
    ```
    link =  "link to your bot"
    ```
@@ -27,7 +27,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+## • Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
